@@ -1,6 +1,6 @@
 # Scripts That Work
 
-A list of scripts that I made over the years to make my professional work easier
+A list of scripts that I made over the years to make my professional work easier.  
 
 ## Disclaimer
 
@@ -11,4 +11,6 @@ KaVo:tm:, DTX Studio:tm:, DEXIS:tm:, Gendex:tm:, i-CAT:tm:, Soredex:tm:, Instrum
 
 SoftDent:tm: is a trademark owned by Carestream Dental  
 
-I do not own, nor will attempt to profit from the brands mentioned above  
+I do not own, nor will attempt to profit from the brands mentioned above. This is to merely showcase my skills.  
+
+These scripts do not come with any warranty, so use at your own risk.
